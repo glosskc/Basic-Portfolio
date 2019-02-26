@@ -1,0 +1,200 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
+    
+    
+body {
+
+ background-image: url("../images/gravel.png");
+ background-repeat: repeat;
+
+}
+
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: #ffffff;
+
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: #4aaaa5;
+    font-size: 24px;
+
+}
+header {
+    width: auto;
+    height: 100px;
+    margin: 0px;
+    background-color: #ffffff;
+    border-bottom: 2px solid #cccccc;
+    color: #777777; 
+}
+
+.topnav {
+    margin-left: 870px;
+    padding-top: 40px;
+}
+
+ul {
+    list-style-type: none;
+    margin-bottom: 20px;
+    padding: 20px; 
+}
+
+li {
+    display: inline;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    font-size: 16px;
+    padding-right: 18px;
+}
+
+.name {
+    width: 300px;
+    padding: 36px;
+    margin-left: 175px;
+    margin-bottom: -40px;
+    font-size: 24px;
+    background:#4aaaa5;
+    text-align: center;
+    float: left;
+}
+
+a {
+    text-decoration: none;
+    color: #777777;
+
+}
+
+#aboutme {
+    padding-top: 20px;
+    margin-left: 36px;
+    margin-right: 36px;
+    padding-bottom: 20px;
+    text-align: left;
+    color: #4aaaa5;
+    border-bottom: 2px solid #cccccc;
+}
+
+
+img {
+    float: left;
+    margin-left: 36px;
+
+}
+
+
+
+.container {
+    width: 960px;
+    height: 480px;
+    padding: 25x;
+    margin: auto;
+    background-color: #ffffff;
+    border: 1px #dddddd;
+    border-style: solid;
+    color: #777777;
+}
+
+/*** Contact Form Page ***/
+
+.form {
+    width: 960px;
+    height: 480px;
+    padding: 25px;
+    margin: auto;
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    color: #777777;
+    
+}
+
+#contact {
+    padding-top: 20px;
+    margin-left: 36px;
+    margin-right: 36px;
+    padding-bottom: 20px;
+    text-align: left;
+    color: #4aaaa5;
+    border-bottom: 2px solid #cccccc;
+}
+
+label { 
+    color: #777777;
+    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 16px;
+    /* margin-left: 28px; */
+    text-align: left;
+    float: left;
+}
+
+label {
+    width: 100%;
+   
+  
+
+}
+
+input {
+    width: 100%;
+    
+
+
+}
+
+textarea {
+    width: 100%;
+    height: 100px;
+    
+
+}
+
+/*** Portfolio ***/
+
+#portfolio {
+    text-align: left;
+    padding: 20px;
+}
+#ipad {
+    position: relative;
+    width: auto;
+    height: auto;
+    margin-left: 30%;
+
+}
+
+#iphone {
+    position: relative;
+    width: auto;
+    height: auto;
+    margin-right: 30%
+}
+
+#lgtv {
+    position: relative;
+    width: auto;
+    height: auto;
+    margin-left: 30%;
+
+}
+
+#wheel {
+    position: relative;
+    width: auto;
+    height: auto;
+    margin-right: 30%;
+}
+
+#wire {
+    position: relative;
+    width: auto;
+    height: auto;
+    margin-left: 30%;
+
+}
+
